@@ -1,5 +1,6 @@
 ---
-title: EVANLINJIN.ME
+layout: page
+title: "About Me"
 ---
 
 ### About Me
