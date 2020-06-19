@@ -2,9 +2,9 @@
 
 New Zealand based freelance backend developer.
 
-Experience in Golang, Javascript and Qt.
-
 Working experience since 2017.
+
+Experience in Golang, Javascript and Qt.
 
 Email: [mail@evanlinjin.me](mailto:mail@evanlinjin.me) | GitHub: [@evanlinjin](https://github.com/evanlinjin)
 
