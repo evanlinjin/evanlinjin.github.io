@@ -34,7 +34,7 @@ My Role:
 
 ## KittyCash
 
-> KittyCash, a proof of concept for blockchain gaming.
+> KittyCash, a proof of concept for blockchain gaming. Tokenized cats are put on the blockchain to guarantee unique ownership of a given cat. Cats need to be fed and can breed with other cats.
 
 | [Website](https://kittycash.io/home) | 
 
