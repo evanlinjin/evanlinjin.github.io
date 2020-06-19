@@ -24,7 +24,7 @@ My Role:
 
 ## Skycoin Dmsg
 
-> A distributed messaging system where nodes are represented by public keys instead of IP addresses.
+> A distributed messaging system where nodes are represented by public keys instead of IP addresses. Dmsg is made up of 3 different services: `dmsg.Discovery`, `dmsg.Server` and `dmsg.Client`. `dmsg.Server` relays data between two `dmsg.Client`s to form a stream. `dmsg.Discovery` registers services to associate public key to IP address.
 
 | [Source Code](https://github.com/SkycoinProject/dmsg) |
 
