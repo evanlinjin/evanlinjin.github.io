@@ -1,8 +1,6 @@
 title: evanlinjin.me
-tagline: Backend developer for hire.
+description: Backend developer for hire.
 show_downloads: false
-locale: "en"
-paginate: 1
 theme: jekyll-theme-cayman
 
 author:
@@ -11,4 +9,3 @@ author:
 
 gems:
   - jekyll-mentions
-  - jekyll-paginate
