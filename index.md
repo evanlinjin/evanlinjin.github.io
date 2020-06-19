@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 New Zealand based freelance backend developer.
 
@@ -8,9 +8,9 @@ Experience in Golang, Javascript and Qt.
 
 | Email: [mail@evanlinjin.me](mailto:mail@evanlinjin.me) | GitHub: [@evanlinjin](https://github.com/evanlinjin) |
 
-## Notible Projects
+# Notible Projects
 
-### Skywire Mainnet
+## Skywire Mainnet
 
 > Skywire is the next evolutionary step in the internet’s development and use. We want to break the  chokehold that internet service providers (ISPs) have on the market by giving the power back to the  people. We are doing this by providing a decentralized community-driven mesh network where users  themselves will own and control the network’s infrastructure. Our goal is to provide everyone with access  to fast, secure, private and reliable internet.
 
@@ -22,7 +22,7 @@ My Role:
 - Develop and test various aspects of the project.
 - Assign tasks and review work of other developers.
 
-### Skycoin Dmsg
+## Skycoin Dmsg
 
 > A distributed messaging system where nodes are represented by public keys instead of IP addresses.
 
@@ -32,7 +32,7 @@ My Role:
 
 - Lead architect and developer.
 
-### KittyCash
+## KittyCash
 
 > KittyCash, a proof of concept for blockchain gaming.
 
@@ -43,7 +43,7 @@ My Role:
 - Write specifications and documentation.
 - Backend development for various services.
 
-### Undisclosed Project @ Crowdbotics
+## Undisclosed Project @ Crowdbotics
 
 | [Website](https://www.crowdbotics.com/) |
 
