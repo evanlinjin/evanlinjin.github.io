@@ -6,7 +6,6 @@ Experience in Golang, Javascript and Qt.
 
 Working experience since 2017.
 
-Contact:
 Email: [mail@evanlinjin.me](mailto:mail@evanlinjin.me) | GitHub: [@evanlinjin](https://github.com/evanlinjin)
 
 ## Notible Projects
