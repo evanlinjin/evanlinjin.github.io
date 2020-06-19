@@ -1,8 +1,12 @@
 title: evanlinjin.me
-description: Backend developer for hire.
-google_analytics: 
+tagline: Backend developer for hire.
 show_downloads: false
+locale:       "en"
 theme: jekyll-theme-cayman
+
+author:
+  name: Evan Lin
+  url: https://github.com/evanlinjin
 
 gems:
   - jekyll-mentions
