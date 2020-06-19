@@ -17,5 +17,6 @@ GitHub: @evanlinjin
 
 My Role:
 
+- Write specifications and documentation.
 - Develop and test various aspects of the project.
 - Assign tasks and review work of other developers.
